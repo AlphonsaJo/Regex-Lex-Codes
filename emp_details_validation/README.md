@@ -1,4 +1,4 @@
-# Lex Programming Assignment: Employee Data Validation
+# Employee Data Validation
 
 ## Objective
 Develop a Lex program to process and validate employee information from an input file, focusing on Social Security Numbers (SSNs), email addresses, and passwords. The program should output valid entries and perform specific manipulations on the data.
